@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tbh.png"><SubTexture name="tbh idle dance0000" x="1296" y="0" width="648" height="1338" frameX="-777" frameY="-469" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="tbh down note0000" x="1983" y="1549" width="732" height="913" frameX="-735" frameY="-894" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="tbh down note0001" x="1335" y="1549" width="648" height="1000" frameX="-777" frameY="-807" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="tbh left note0000" x="1944" y="0" width="771" height="1338" frameX="-609" frameY="-469" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="tbh left note0001" x="2715" y="0" width="725" height="1338" frameX="-653" frameY="-469" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="tbh right note0000" x="0" y="1549" width="684" height="1338" frameX="-864" frameY="-469" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="tbh right note0001" x="684" y="1549" width="651" height="1338" frameX="-857" frameY="-469" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="tbh up note0000" x="0" y="0" width="648" height="1549" frameX="-777" frameY="-258" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="tbh up note0001" x="648" y="0" width="648" height="1459" frameX="-777" frameY="-348" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

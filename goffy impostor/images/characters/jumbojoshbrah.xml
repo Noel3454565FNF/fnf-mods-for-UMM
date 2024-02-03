@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jumbojoshbrah.png"><SubTexture name="jumbojoshbrah idle dance0000" x="1250" y="0" width="626" height="742" frameX="-702" frameY="-1123" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="jumbojoshbrah down note0000" x="0" y="1823" width="698" height="294" frameX="-668" frameY="-1558" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="jumbojoshbrah down note0001" x="1876" y="1420" width="596" height="330" frameX="-719" frameY="-1522" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="jumbojoshbrah left note0000" x="0" y="1082" width="799" height="741" frameX="-499" frameY="-1130" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="jumbojoshbrah left note0001" x="799" y="1082" width="716" height="741" frameX="-615" frameY="-1130" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="jumbojoshbrah right note0000" x="1876" y="0" width="837" height="710" frameX="-783" frameY="-1119" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="jumbojoshbrah right note0001" x="1876" y="710" width="815" height="710" frameX="-751" frameY="-1119" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="jumbojoshbrah up note0000" x="0" y="0" width="584" height="1082" frameX="-770" frameY="-772" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="jumbojoshbrah up note0001" x="584" y="0" width="666" height="970" frameX="-729" frameY="-884" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

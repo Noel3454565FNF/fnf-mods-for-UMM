@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "street2",
+		"player1": "oldbf",
+		"player2": "happymouse",
+		"player3": null,
+		"events": [
+			[
+				38400,
+				[
+					[
+						"Screen Shake",
+						"1, 0.05",
+						"1, 0.05"
+					]
+				]
+			],
+			[
+				38500,
+				[
+					[
+						"Change Character",
+						"1",
+						"happymouse2"
+					]
+				]
+			],
+			[
+				38600,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				52000,
+				[
+					[
+						"Change Character",
+						"1",
+						"happymouse"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Change Character",
+						"1",
+						"happymouse"
+					]
+				]
+			],
+			[
+				89500,
+				[
+					[
+						"Change Character",
+						"1",
+						"happymouse2"
+					]
+				]
+			],
+			[
+				89700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				89800,
+				[
+					[
+						"Screen Shake",
+						"30, 0.02",
+						"30, 0.02"
+					]
+				]
+			],
+			[
+				128800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.030"
+					]
+				]
+			],
+			[
+				128900,
+				[
+					[
+						"Screen Shake",
+						"10, 0.10",
+						"10, 0.10"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "oldgf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Death"
+	}
+}

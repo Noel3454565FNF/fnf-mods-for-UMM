@@ -1,0 +1,4 @@
+Rotates the camera screen
+
+Value1:Rotation degress (example 90)
+Value2:Duration of rotation

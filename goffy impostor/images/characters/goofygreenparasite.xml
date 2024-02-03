@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goofygreenparasite.png"><SubTexture name="goofygreenparasite idle dance0000" x="3129" y="0" width="1081" height="853" frameX="-1390" frameY="-861" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0001" x="0" y="2763" width="1086" height="850" frameX="-1384" frameY="-864" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0002" x="1086" y="2763" width="1085" height="844" frameX="-1373" frameY="-870" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0003" x="1066" y="3613" width="1090" height="826" frameX="-1377" frameY="-888" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0004" x="2156" y="3613" width="1083" height="826" frameX="-1391" frameY="-888" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0005" x="3239" y="3613" width="1069" height="826" frameX="-1396" frameY="-888" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0006" x="0" y="3613" width="1066" height="837" frameX="-1401" frameY="-877" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0007" x="3129" y="853" width="1064" height="850" frameX="-1402" frameY="-864" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0008" x="3129" y="1703" width="1059" height="850" frameX="-1406" frameY="-864" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0009" x="0" y="1048" width="1051" height="860" frameX="-1407" frameY="-854" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0010" x="2076" y="0" width="1053" height="860" frameX="-1400" frameY="-854" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0011" x="0" y="1908" width="1066" height="855" frameX="-1395" frameY="-859" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite idle dance0012" x="1066" y="1908" width="1074" height="855" frameX="-1391" frameY="-859" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite down note0000" x="4210" y="1602" width="1005" height="737" frameX="-1452" frameY="-1022" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite down note0001" x="4210" y="1602" width="1005" height="737" frameX="-1452" frameY="-1022" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite down note0002" x="4210" y="840" width="1014" height="762" frameX="-1444" frameY="-997" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite left note0000" x="2076" y="860" width="886" height="850" frameX="-1369" frameY="-904" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite left note0001" x="2076" y="860" width="886" height="850" frameX="-1369" frameY="-904" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite left note0002" x="1051" y="1048" width="914" height="850" frameX="-1384" frameY="-904" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite up note0000" x="0" y="0" width="1038" height="1048" frameX="-1260" frameY="-662" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite up note0001" x="0" y="0" width="1038" height="1048" frameX="-1260" frameY="-662" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite up note0002" x="1038" y="0" width="1038" height="1009" frameX="-1260" frameY="-701" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite right note0000" x="2171" y="2763" width="1038" height="840" frameX="-1471" frameY="-898" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite right note0001" x="2171" y="2763" width="1038" height="840" frameX="-1471" frameY="-898" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofygreenparasite right note0002" x="4210" y="0" width="1053" height="840" frameX="-1444" frameY="-898" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

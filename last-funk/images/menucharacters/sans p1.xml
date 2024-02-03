@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sans p1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sansmenu10000" x="0" y="0" width="982" height="873"/>
+	<SubTexture name="sansmenu10001" x="982" y="0" width="982" height="873"/>
+	<SubTexture name="sansmenu10002" x="982" y="0" width="982" height="873"/>
+	<SubTexture name="sansmenu10003" x="1964" y="0" width="982" height="873"/>
+	<SubTexture name="sansmenu10004" x="1964" y="0" width="982" height="873"/>
+	<SubTexture name="sansmenu10005" x="2946" y="0" width="982" height="873"/>
+	<SubTexture name="sansmenu10006" x="2946" y="0" width="982" height="873"/>
+	<SubTexture name="sansmenu10007" x="0" y="873" width="982" height="873"/>
+	<SubTexture name="sansmenu10008" x="0" y="873" width="982" height="873"/>
+	<SubTexture name="sansmenu10009" x="982" y="873" width="982" height="873"/>
+	<SubTexture name="sansmenu10010" x="982" y="873" width="982" height="873"/>
+	<SubTexture name="sansmenu10011" x="982" y="873" width="982" height="873"/>
+	<SubTexture name="sansmenu10012" x="982" y="873" width="982" height="873"/>
+	<SubTexture name="sansmenu10013" x="1964" y="873" width="982" height="873"/>
+	<SubTexture name="sansmenu10014" x="2946" y="873" width="982" height="873"/>
+	<SubTexture name="sansmenu10015" x="0" y="1746" width="982" height="873"/>
+	<SubTexture name="sansmenu10016" x="0" y="1746" width="982" height="873"/>
+	<SubTexture name="sansmenu10017" x="982" y="1746" width="982" height="873"/>
+	<SubTexture name="sansmenu10018" x="982" y="1746" width="982" height="873"/>
+	<SubTexture name="sansmenu10019" x="1964" y="1746" width="982" height="873"/>
+	<SubTexture name="sansmenu10020" x="1964" y="1746" width="982" height="873"/>
+	<SubTexture name="sansmenu10021" x="2946" y="1746" width="982" height="873"/>
+	<SubTexture name="sansmenu10022" x="2946" y="1746" width="982" height="873"/>
+	<SubTexture name="sansmenu10023" x="0" y="2619" width="982" height="873"/>
+	<SubTexture name="sansmenu10024" x="0" y="2619" width="982" height="873"/>
+	<SubTexture name="sansmenu10025" x="982" y="2619" width="982" height="873"/>
+	<SubTexture name="sansmenu10026" x="982" y="2619" width="982" height="873"/>
+	<SubTexture name="sansmenu10027" x="1964" y="2619" width="982" height="873"/>
+</TextureAtlas>

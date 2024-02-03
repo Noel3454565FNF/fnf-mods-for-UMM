@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1345,
+				1070
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "blackgoofydanger left note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1345,
+				1050
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blackgoofydanger idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1345,
+				1050
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blackgoofydanger right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1345,
+				1050
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "blackgoofydanger down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1345,
+				1050
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "blackgoofydanger up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1345,
+				1050
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "blackgoofydanger hey",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				845,
+				350
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "blackgoofydanger spin",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1415,
+				1050
+			],
+			"anim": "idle-angy",
+			"fps": 24,
+			"name": "blackgoofydanger angry idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackgoofydanger",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "v2blackgoofy",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		1,
+		21
+	],
+	"camera_position": [
+		-1680,
+		-1240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

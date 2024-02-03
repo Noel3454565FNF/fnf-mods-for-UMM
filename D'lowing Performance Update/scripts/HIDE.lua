@@ -1,0 +1,5 @@
+-- function onUpdate(elapsed)
+--     hideHud = true;
+--     hideTime = true;
+--     return Function_Stop
+-- end

@@ -1,0 +1,1 @@
+Value1 = "1" = Black's Icon, "0" = White's Icon

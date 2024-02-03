@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				500,
+				240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "funny 3 idle"
+		},
+		{
+			"offsets": [
+				510,
+				270
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "funny 3 left"
+		},
+		{
+			"offsets": [
+				500,
+				270
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "funny 3 down"
+		},
+		{
+			"offsets": [
+				500,
+				270
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "funny 3 up"
+		},
+		{
+			"offsets": [
+				490,
+				270
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "funny 3 right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/funny 3",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "invisible",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		161,
+		161
+	],
+	"camera_position": [
+		-460,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.200000000000001
+}

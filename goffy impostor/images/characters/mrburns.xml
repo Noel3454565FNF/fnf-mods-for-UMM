@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mrburns.png"><SubTexture name="mrburns idle dance0000" x="1269" y="976" width="367" height="863" frameX="-708" frameY="-113" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns up note0000" x="0" y="0" width="367" height="976" frameX="-708" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns up note0001" x="0" y="0" width="367" height="976" frameX="-708" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns up note0002" x="367" y="0" width="367" height="932" frameX="-708" frameY="-44" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns left note0000" x="734" y="0" width="578" height="887" frameX="-514" frameY="-115" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns left note0001" x="734" y="0" width="578" height="887" frameX="-514" frameY="-115" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns left note0002" x="1312" y="0" width="565" height="887" frameX="-546" frameY="-115" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns down note0000" x="1877" y="815" width="433" height="785" frameX="-701" frameY="-193" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns down note0001" x="1877" y="815" width="433" height="785" frameX="-701" frameY="-193" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns down note0002" x="1877" y="0" width="433" height="815" frameX="-701" frameY="-163" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns right note0000" x="0" y="976" width="659" height="874" frameX="-713" frameY="-120" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns right note0001" x="0" y="976" width="659" height="874" frameX="-713" frameY="-120" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mrburns right note0002" x="659" y="976" width="610" height="874" frameX="-716" frameY="-120" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

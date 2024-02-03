@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1505,
+				1280
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf-scaryngoofy left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1505,
+				1280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf-scaryngoofy idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1505,
+				1280
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf-scaryngoofy right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1505,
+				1280
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf-scaryngoofy down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1505,
+				1280
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf-scaryngoofy up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1505,
+				1280
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "bf-scaryngoofy hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1965,
+				1340
+			],
+			"anim": "idle-bruh",
+			"fps": 24,
+			"name": "bf-scaryngoofy bruh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-scaryngoofy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "v2bfgoofy",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1380,
+		-1049
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

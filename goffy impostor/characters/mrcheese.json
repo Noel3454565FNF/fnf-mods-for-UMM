@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1495,
+				893
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mrcheese left note"
+		},
+		{
+			"offsets": [
+				1495,
+				893
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "mrcheese idle dance"
+		},
+		{
+			"offsets": [
+				1495,
+				893
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mrcheese right note"
+		},
+		{
+			"offsets": [
+				1495,
+				893
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mrcheese down note"
+		},
+		{
+			"offsets": [
+				1495,
+				893
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mrcheese up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mrcheese",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "mrcheese",
+	"flip_x": false,
+	"healthbar_colors": [
+		227,
+		172,
+		19
+	],
+	"camera_position": [
+		-340,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

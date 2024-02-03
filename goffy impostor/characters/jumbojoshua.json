@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				995,
+				1150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jumbojoshbrah left note"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jumbojoshbrah idle dance"
+		},
+		{
+			"offsets": [
+				965,
+				1120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jumbojoshbrah right note"
+		},
+		{
+			"offsets": [
+				1025,
+				1147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jumbojoshbrah down note"
+		},
+		{
+			"offsets": [
+				1005,
+				1110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jumbojoshbrah up note"
+		},
+		{
+			"offsets": [
+				1574,
+				1054
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reset",
+			"indices": [],
+			"name": "jumbojoshbrah reset"
+		},
+		{
+			"offsets": [
+				1415,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-ham",
+			"indices": [],
+			"name": "jumbojoshbrah hamburger"
+		},
+		{
+			"offsets": [
+				1415,
+				1050
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-angy",
+			"indices": [],
+			"name": "jumbojoshbrah angry idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jumbojoshbrah",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "jumbusjoshus",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		215,
+		0
+	],
+	"camera_position": [
+		-880,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

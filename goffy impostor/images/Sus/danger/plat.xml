@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="plat.png"><SubTexture name="plat form0000" x="0" y="363" width="493" height="276" frameX="-1454" frameY="-1646" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="plat form0001" x="493" y="0" width="493" height="358" frameX="-1454" frameY="-1646" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="plat form0002" x="0" y="0" width="493" height="363" frameX="-1454" frameY="-1646" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="plat form0003" x="493" y="363" width="493" height="273" frameX="-1454" frameY="-1646" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

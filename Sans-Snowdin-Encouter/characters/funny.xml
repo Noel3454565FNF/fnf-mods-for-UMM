@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="funny.png"><SubTexture name="funny idle0000" x="0" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny idle0001" x="1084" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny idle0002" x="2168" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny idle0003" x="3252" y="0" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny idle0004" x="0" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny idle0005" x="1084" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny idle0006" x="2168" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny up0000" x="3252" y="1084" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny up0001" x="0" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny left0000" x="1084" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny left0001" x="2168" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny down0000" x="3252" y="2168" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny down0001" x="0" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny right0000" x="1084" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny morb0000" x="2168" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny morb0001" x="3252" y="3252" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny morb0002" x="0" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny morb0003" x="1084" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny morb0004" x="2168" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+<SubTexture name="funny morb0005" x="3252" y="4336" width="1084" height="1084" frameX="0" frameY="0" frameWidth="1084" frameHeight="1084" />
+</TextureAtlas>

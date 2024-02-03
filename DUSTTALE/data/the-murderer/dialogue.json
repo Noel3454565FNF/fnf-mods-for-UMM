@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dialogue_sans_snowdin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wh..-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialogue_sans_snowdin",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "who are you... you are not the human i know."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skeep bap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialogue_sans_snowdin",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "..no no no.. i can’t! i’m.. i’m not ready..!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skbeep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialogue_sans_snowdin",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "..I.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialogue_sans_snowdin",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "..."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "dialogue_sans_snowdin",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "...i... ...don’t have enough.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...bop?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dialogue_sans_snowdin",
+			"boxState": "normal",
+			"expression": "worry",
+			"text": "...I..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialogue_sans_snowdin",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "..."
+		}
+	]
+}

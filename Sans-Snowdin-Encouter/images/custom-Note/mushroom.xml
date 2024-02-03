@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mushroom.png">
+<SubTexture name="purple00000000" x="0" y="0" width="161" height="162" frameX="0" frameY="0" frameWidth="161" frameHeight="162" />
+<SubTexture name="red00000000" x="0" y="0" width="161" height="162" frameX="0" frameY="0" frameWidth="161" frameHeight="162" />
+<SubTexture name="green00000000" x="0" y="0" width="161" height="162" frameX="0" frameY="0" frameWidth="161" frameHeight="162" />
+<SubTexture name="blue00000000" x="0" y="0" width="161" height="162" frameX="0" frameY="0" frameWidth="161" frameHeight="162" />
+</TextureAtlas>

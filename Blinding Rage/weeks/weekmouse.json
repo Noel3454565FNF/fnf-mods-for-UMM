@@ -1,0 +1,32 @@
+{
+	"storyName": "one final harmony",
+	"difficulties": "Hard, Lol",
+	"hideFreeplay": false,
+	"weekBackground": "weekmouse",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"blinding-rage",
+			"mouseblind",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "sadmouse"
+}

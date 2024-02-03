@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				625,
+				100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mrburns left note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				625,
+				100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mrburns idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				625,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mrburns right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				625,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mrburns down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				625,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mrburns up note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mrburns",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "v2bfgoofy",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-880,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

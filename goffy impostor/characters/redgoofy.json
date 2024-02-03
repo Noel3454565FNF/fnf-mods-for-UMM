@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1055,
+				1061
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "goofyred left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1055,
+				1061
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "goofyred idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1055,
+				1061
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "goofyred right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1055,
+				1061
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "goofyred down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1055,
+				1061
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "goofyred up note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goofyred",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "redgoofy",
+	"flip_x": false,
+	"healthbar_colors": [
+		233,
+		52,
+		35
+	],
+	"camera_position": [
+		-880,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

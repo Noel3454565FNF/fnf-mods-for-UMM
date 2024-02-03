@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hehehe.png"><SubTexture name="hehehe haw0000" x="0" y="0" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0001" x="370" y="0" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0002" x="740" y="0" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0003" x="0" y="498" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0004" x="370" y="498" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0005" x="740" y="498" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0006" x="1110" y="0" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0007" x="1110" y="498" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0008" x="1480" y="0" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0009" x="1480" y="498" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0010" x="0" y="996" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0011" x="370" y="996" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0012" x="740" y="996" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0013" x="1110" y="996" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0014" x="1480" y="996" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0015" x="1850" y="0" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0016" x="1850" y="498" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0017" x="1850" y="996" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0018" x="0" y="1494" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0019" x="370" y="1494" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+<SubTexture name="hehehe haw0020" x="740" y="1494" width="370" height="498" frameX="0" frameY="0" frameWidth="370" frameHeight="498" />
+</TextureAtlas>

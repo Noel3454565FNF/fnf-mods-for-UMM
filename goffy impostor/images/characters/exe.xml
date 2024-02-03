@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exe.png"><SubTexture name="exe down note0000" x="0" y="2642" width="1075" height="394" frameX="-946" frameY="-1346" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="exe down note0001" x="2830" y="0" width="999" height="432" frameX="-984" frameY="-1308" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="exe idle dance0000" x="0" y="0" width="700" height="1140" frameX="-1146" frameY="-592" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="exe left note0000" x="0" y="1894" width="1358" height="748" frameX="-681" frameY="-988" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="exe left note0001" x="1358" y="1894" width="1249" height="748" frameX="-790" frameY="-988" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="exe right note0000" x="0" y="1140" width="1397" height="754" frameX="-949" frameY="-985" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="exe right note0001" x="1397" y="1140" width="1297" height="754" frameX="-950" frameY="-985" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="exe up note0000" x="700" y="0" width="1018" height="933" frameX="-990" frameY="-804" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="exe up note0001" x="1718" y="0" width="1112" height="824" frameX="-943" frameY="-913" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

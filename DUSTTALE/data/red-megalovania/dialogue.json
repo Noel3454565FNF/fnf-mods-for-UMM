@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dialogue_sans_waterfall",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "...you again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dialogue_sans_waterfall",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i...well..., guess i don’t got a choice."
+		}
+	]
+}

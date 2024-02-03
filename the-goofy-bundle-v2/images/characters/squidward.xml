@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="squidward.png"><SubTexture name="squidward idle dance0000" x="1146" y="0" width="573" height="1335" frameX="-802" frameY="-457" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="squidward left note0000" x="1719" y="0" width="773" height="1335" frameX="-590" frameY="-457" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="squidward left note0001" x="2492" y="0" width="708" height="1335" frameX="-654" frameY="-457" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="squidward right note0000" x="0" y="1561" width="553" height="1335" frameX="-973" frameY="-457" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="squidward right note0001" x="553" y="1561" width="518" height="1335" frameX="-973" frameY="-457" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="squidward down note0000" x="1644" y="1561" width="573" height="937" frameX="-802" frameY="-855" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="squidward down note0001" x="1071" y="1561" width="573" height="1045" frameX="-802" frameY="-747" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="squidward up note0000" x="0" y="0" width="573" height="1561" frameX="-802" frameY="-231" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="squidward up note0001" x="573" y="0" width="573" height="1456" frameX="-802" frameY="-336" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

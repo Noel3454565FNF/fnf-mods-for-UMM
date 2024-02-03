@@ -1,0 +1,50 @@
+{
+	"storyName": "Mario Madness 8 bits",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Golden Land",
+			"Mario2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Last Course",
+			"Mario2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"I hate you",
+			"luigi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mario is at your house"
+}

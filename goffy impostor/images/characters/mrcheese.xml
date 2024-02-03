@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mrcheese.png"><SubTexture name="mrcheese idle dance0000" x="1799" y="0" width="461" height="722" frameX="-933" frameY="-1058" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="mrcheese down note0000" x="0" y="1619" width="566" height="503" frameX="-879" frameY="-1294" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="mrcheese down note0001" x="1799" y="722" width="458" height="566" frameX="-933" frameY="-1231" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="mrcheese left note0000" x="760" y="0" width="531" height="744" frameX="-852" frameY="-1028" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="mrcheese left note0001" x="1291" y="0" width="508" height="744" frameX="-891" frameY="-1028" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="mrcheese right note0000" x="0" y="895" width="898" height="724" frameX="-937" frameY="-1070" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="mrcheese right note0001" x="898" y="895" width="842" height="724" frameX="-920" frameY="-1070" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="mrcheese up note0000" x="0" y="0" width="369" height="895" frameX="-990" frameY="-881" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="mrcheese up note0001" x="369" y="0" width="391" height="810" frameX="-979" frameY="-966" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

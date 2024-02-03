@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "C-Pico 2 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "C-Pico 2 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "C-Pico 2 Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "C-Pico 2 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "C-Pico 2 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "transformation",
+			"fps": 24,
+			"name": "C-Pico 2 Transform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/C-Pico_2",
+	"position": [
+		-370,
+		60
+	],
+	"healthicon": "C-Pico_2",
+	"flip_x": true,
+	"healthbar_colors": [
+		87,
+		0,
+		228
+	],
+	"camera_position": [
+		150,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

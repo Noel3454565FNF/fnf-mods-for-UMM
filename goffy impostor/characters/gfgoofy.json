@@ -1,0 +1,176 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1290,
+				1051
+			],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 24,
+			"name": "goofy_girl hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1290,
+				1051
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "goofy_girl left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1290,
+				1051
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "goofy_girl down note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1290,
+				1051
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "goofy_girl up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1290,
+				1051
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "goofy_girl right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				-21
+			],
+			"loop": false,
+			"anim": "sad",
+			"fps": 24,
+			"name": "goofy_girl sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				1290,
+				1051
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "goofy_girl danceleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1290,
+				1051
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "goofy_girl dance right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				-8
+			],
+			"loop": true,
+			"anim": "hairBlow",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair blowing",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"anim": "hairFall",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair Landing",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"offsets": [
+				1290,
+				1051
+			],
+			"loop": true,
+			"anim": "idle-peace",
+			"fps": 24,
+			"name": "goofy_girl peace out bruv",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goofy_girl",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		21,
+		55
+	],
+	"camera_position": [
+		-460,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

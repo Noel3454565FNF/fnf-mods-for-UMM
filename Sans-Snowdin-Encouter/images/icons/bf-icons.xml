@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-icons.png">
+<SubTexture name="dead0000" x="0" y="0" width="137" height="90" frameX="-11" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="normal0000" x="137" y="0" width="150" height="82" frameX="0" frameY="-25" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

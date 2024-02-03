@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1445,
+				1140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "v2blackparasitegoofy left note"
+		},
+		{
+			"offsets": [
+				1445,
+				1120
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "v2blackparasitegoofy idle dance"
+		},
+		{
+			"offsets": [
+				1445,
+				1120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "v2blackparasitegoofy right note"
+		},
+		{
+			"offsets": [
+				1445,
+				1150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "v2blackparasitegoofy down note"
+		},
+		{
+			"offsets": [
+				1465,
+				1120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "v2blackparasitegoofy up note"
+		},
+		{
+			"offsets": [
+				1574,
+				1054
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reset",
+			"indices": [],
+			"name": "v2blackparasitegoofy reset"
+		},
+		{
+			"offsets": [
+				1415,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-ham",
+			"indices": [],
+			"name": "v2blackparasitegoofy hamburger"
+		},
+		{
+			"offsets": [
+				1415,
+				1050
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-angy",
+			"indices": [],
+			"name": "v2blackparasitegoofy angry idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/v2blackparasitegoofy",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "v2blackparasitegoofy",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		0,
+		22
+	],
+	"camera_position": [
+		-880,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

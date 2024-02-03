@@ -1,0 +1,2 @@
+Value 1: 'Flip' for flipping game, 'unflip' for unflipping
+Value 2: Nothing

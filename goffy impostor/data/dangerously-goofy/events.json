@@ -1,0 +1,111 @@
+{
+	"song": {
+		"events": [
+			[
+				20000,
+				[
+					[
+						"karaokelyrics",
+						"",
+						"when"
+					]
+				]
+			],
+			[
+				20166.6666666667,
+				[
+					[
+						"karaokelyrics",
+						"",
+						"when the impostor"
+					]
+				]
+			],
+			[
+				20666.6666666667,
+				[
+					[
+						"karaokelyrics",
+						"",
+						"when the impostor is"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"karaokelyrics",
+						"",
+						"when the impostor is sus!"
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"karaokelyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57666.6666666667,
+				[
+					[
+						"scream danger",
+						"",
+						""
+					],
+					[
+						"Thepotra",
+						"s",
+						""
+					]
+				]
+			],
+			[
+				58633.3333333334,
+				[
+					[
+						"unscream danger",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58666.6666666667,
+				[
+					[
+						"Thepotra",
+						"sa",
+						""
+					]
+				]
+			],
+			[
+				61250,
+				[
+					[
+						"Alt Idle Animation",
+						"Gf",
+						"-peace"
+					]
+				]
+			],
+			[
+				61333.3333333334,
+				[
+					[
+						"Thepotra",
+						"a",
+						""
+					]
+				]
+			]
+		]
+	}
+}

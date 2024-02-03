@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOEL.png">
+<SubTexture name="left0000" x="0" y="0" width="224" height="476" frameX="-57" frameY="-56" frameWidth="433" frameHeight="577" />
+<SubTexture name="left0001" x="224" y="0" width="187" height="478" frameX="-86" frameY="-62" frameWidth="433" frameHeight="577" />
+<SubTexture name="left0002" x="411" y="0" width="153" height="473" frameX="-119" frameY="-81" frameWidth="433" frameHeight="577" />
+<SubTexture name="up0000" x="794" y="0" width="161" height="482" frameX="-128" frameY="-27" frameWidth="433" frameHeight="577" />
+<SubTexture name="up0001" x="0" y="482" width="172" height="477" frameX="-123" frameY="-27" frameWidth="433" frameHeight="577" />
+<SubTexture name="up0002" x="172" y="482" width="164" height="476" frameX="-121" frameY="-32" frameWidth="433" frameHeight="577" />
+<SubTexture name="idle0000" x="336" y="482" width="167" height="552" frameX="-66" frameY="-7" frameWidth="433" frameHeight="577" />
+<SubTexture name="right0000" x="503" y="482" width="297" height="456" frameX="-85" frameY="-80" frameWidth="433" frameHeight="577" />
+<SubTexture name="right0001" x="800" y="482" width="278" height="455" frameX="-108" frameY="-75" frameWidth="433" frameHeight="577" />
+<SubTexture name="right0002" x="564" y="0" width="230" height="465" frameX="-120" frameY="-82" frameWidth="433" frameHeight="577" />
+<SubTexture name="down0000" x="0" y="1034" width="198" height="436" frameX="-124" frameY="-86" frameWidth="433" frameHeight="577" />
+<SubTexture name="down0001" x="198" y="1034" width="211" height="464" frameX="-131" frameY="-75" frameWidth="433" frameHeight="577" />
+<SubTexture name="down0002" x="409" y="1034" width="211" height="474" frameX="-128" frameY="-65" frameWidth="433" frameHeight="577" />
+</TextureAtlas>

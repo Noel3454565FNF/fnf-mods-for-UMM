@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ltg.png"><SubTexture name="ltg idle dance0000" x="1082" y="0" width="564" height="630" frameX="-1422" frameY="-1106" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="ltg down note0000" x="564" y="1433" width="624" height="355" frameX="-1392" frameY="-1381" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="ltg down note0001" x="0" y="1433" width="564" height="401" frameX="-1422" frameY="-1335" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="ltg right note0000" x="0" y="803" width="814" height="630" frameX="-1417" frameY="-1106" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="ltg right note0001" x="814" y="803" width="736" height="630" frameX="-1417" frameY="-1106" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="ltg left note0000" x="1646" y="0" width="793" height="630" frameX="-1194" frameY="-1106" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="ltg left note0001" x="1646" y="630" width="723" height="630" frameX="-1265" frameY="-1106" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="ltg up note0000" x="0" y="0" width="518" height="803" frameX="-1445" frameY="-933" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="ltg up note0001" x="518" y="0" width="564" height="727" frameX="-1422" frameY="-1009" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

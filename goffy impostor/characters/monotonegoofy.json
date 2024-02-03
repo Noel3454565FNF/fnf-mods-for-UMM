@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2035,
+				951
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "goofymonotone left note"
+		},
+		{
+			"offsets": [
+				2035,
+				951
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "goofymonotone idle dance"
+		},
+		{
+			"offsets": [
+				2035,
+				951
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "goofymonotone right note"
+		},
+		{
+			"offsets": [
+				2035,
+				951
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "goofymonotone down note"
+		},
+		{
+			"offsets": [
+				2035,
+				951
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "goofymonotone up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goofymonotone",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "monotonegoofy",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		44,
+		73
+	],
+	"camera_position": [
+		-880,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

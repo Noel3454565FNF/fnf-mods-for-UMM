@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rankings.png">
+<SubTexture name="X0000" x="0" y="0" width="8" height="8"/>
+<SubTexture name="bowser0000" x="8" y="0" width="8" height="8"/>
+<SubTexture name="brownmushroom0000" x="16" y="0" width="8" height="8"/>
+<SubTexture name="coin0000" x="24" y="0" width="8" height="8"/>
+<SubTexture name="mushroom0000" x="32" y="0" width="8" height="8"/>
+<SubTexture name="fireflower0000" x="40" y="0" width="8" height="8"/>
+<SubTexture name="star0000" x="48" y="0" width="8" height="8"/>
+<SubTexture name="crown0000" x="56" y="0" width="8" height="8"/>
+</TextureAtlas>

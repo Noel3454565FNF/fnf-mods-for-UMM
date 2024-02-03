@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				835,
+				1070
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tpose_goofyblack left note",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				835,
+				1050
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tpose_goofyblack idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				835,
+				1050
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tpose_goofyblack right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				835,
+				1050
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tpose_goofyblack down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				835,
+				1050
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tpose_goofyblack up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1574,
+				1054
+			],
+			"anim": "reset",
+			"fps": 24,
+			"name": "tpose_goofyblack reset",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1415,
+				1050
+			],
+			"anim": "idle-ham",
+			"fps": 24,
+			"name": "tpose_goofyblack hamburger",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1415,
+				1050
+			],
+			"anim": "idle-angy",
+			"fps": 24,
+			"name": "tpose_goofyblack angry idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tpose_goofyblack",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "v2blackgoofy",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		1,
+		21
+	],
+	"camera_position": [
+		-1680,
+		-1240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tbh left note"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tbh idle dance"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tbh right note"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tbh down note"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tbh up note"
+		},
+		{
+			"offsets": [
+				1574,
+				1054
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reset",
+			"indices": [],
+			"name": "tbh reset"
+		},
+		{
+			"offsets": [
+				1415,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-ham",
+			"indices": [],
+			"name": "tbh hamburger"
+		},
+		{
+			"offsets": [
+				1415,
+				1050
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-angy",
+			"indices": [],
+			"name": "tbh angry idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tbh",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "tbh",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		82,
+		62
+	],
+	"camera_position": [
+		-880,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

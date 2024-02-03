@@ -1,0 +1,50 @@
+{
+	"storyName": "The Skeld - Admin",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ADRENALINE",
+			"purple",
+			[
+				126,
+				53,
+				213
+			]
+		],
+		[
+			"INTERSTELLAR",
+			"purple-fall",
+			[
+				106,
+				20,
+				193
+			]
+		],
+		[
+			"ELUDE",
+			"purple-fall",
+			[
+				86,
+				-13,
+				173
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Purple"
+}

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Elizabeth.png">
+<SubTexture name="Elizabeth Idle0000" x="1610" y="916" width="329" height="453" frameX="-196" frameY="-255" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Idle0001" x="0" y="1432" width="330" height="449" frameX="-194" frameY="-258" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Idle0002" x="1610" y="461" width="329" height="455" frameX="-194" frameY="-253" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Idle0003" x="657" y="966" width="329" height="462" frameX="-202" frameY="-246" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Idle0004" x="329" y="966" width="328" height="463" frameX="-204" frameY="-245" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Left0000" x="0" y="966" width="329" height="466" frameX="-165" frameY="-240" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Left0001" x="1610" y="0" width="329" height="461" frameX="-168" frameY="-246" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Down0000" x="977" y="1432" width="328" height="403" frameX="-169" frameY="-304" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Down0001" x="649" y="1432" width="328" height="410" frameX="-171" frameY="-297" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Up0000" x="628" y="0" width="326" height="492" frameX="-218" frameY="-220" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Up0001" x="954" y="0" width="328" height="482" frameX="-213" frameY="-229" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Right0000" x="637" y="497" width="330" height="467" frameX="-225" frameY="-247" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth Right0001" x="1282" y="0" width="328" height="467" frameX="-223" frameY="-246" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth L MISS0000" x="0" y="966" width="329" height="466" frameX="-165" frameY="-240" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth L MISS0001" x="1282" y="467" width="314" height="466" frameX="-176" frameY="-242" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth L MISS0002" x="986" y="966" width="319" height="462" frameX="-173" frameY="-245" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth D MISS0000" x="977" y="1432" width="328" height="403" frameX="-169" frameY="-304" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth D MISS0001" x="967" y="497" width="315" height="432" frameX="-180" frameY="-277" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth D MISS0002" x="330" y="1432" width="319" height="429" frameX="-178" frameY="-279" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth U MISS0000" x="628" y="0" width="326" height="492" frameX="-218" frameY="-220" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth U MISS0001" x="0" y="0" width="312" height="497" frameX="-215" frameY="-214" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth U MISS0002" x="312" y="0" width="316" height="494" frameX="-213" frameY="-217" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth R MISS0000" x="637" y="497" width="330" height="467" frameX="-225" frameY="-247" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth R MISS0001" x="0" y="497" width="318" height="469" frameX="-227" frameY="-245" frameWidth="720" frameHeight="720" />
+<SubTexture name="Elizabeth R MISS0002" x="318" y="497" width="319" height="469" frameX="-227" frameY="-245" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

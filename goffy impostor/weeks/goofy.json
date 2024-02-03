@@ -1,0 +1,68 @@
+{
+	"storyName": "goof",
+	"difficulties": "goofy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Goofysight",
+			"whitegoofy",
+			[
+				155,
+				155,
+				155
+			]
+		],
+		[
+			"Dangerously Goofy",
+			"v2blackgoofy",
+			[
+				255,
+				40,
+				39
+			]
+		],
+		[
+			"Double Goof",
+			"doublekill",
+			[
+				178,
+				0,
+				59
+			]
+		],
+		[
+			"Defeat by Goofiness",
+			"v2blackgoofy",
+			[
+				255,
+				20,
+				0
+			]
+		],
+		[
+			"Final Goof",
+			"v2blackparasitegoofy",
+			[
+				255,
+				0,
+				175
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "GOOFYBUNDLE",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-189
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Luigi Up000",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Luigi Iddle000",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Luigi Down000",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-180
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Luigi Right000",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-183
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Luigi Left000",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/luigi",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "luigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

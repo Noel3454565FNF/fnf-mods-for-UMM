@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "squidward left note"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "squidward idle dance"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "squidward right note"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "squidward down note"
+		},
+		{
+			"offsets": [
+				1065,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "squidward up note"
+		},
+		{
+			"offsets": [
+				1574,
+				1054
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reset",
+			"indices": [],
+			"name": "squidward reset"
+		},
+		{
+			"offsets": [
+				1415,
+				1050
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-ham",
+			"indices": [],
+			"name": "squidward hamburger"
+		},
+		{
+			"offsets": [
+				1415,
+				1050
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-angy",
+			"indices": [],
+			"name": "squidward angry idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/squidward",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		215,
+		205
+	],
+	"camera_position": [
+		-880,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

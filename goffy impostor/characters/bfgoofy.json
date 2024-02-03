@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "goofyboy left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "goofyboy idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "goofyboy right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "goofyboy down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "goofyboy up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "goofyboy miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "goofyboy miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "goofyboy miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "goofyboy miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "reset",
+			"fps": 24,
+			"name": "goofyboy reset",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1925,
+				1310
+			],
+			"anim": "idle-bruh",
+			"fps": 24,
+			"name": "goofyboy bruh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goofyboy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfgoofy",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1380,
+		-1049
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

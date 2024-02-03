@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sans_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".... hehe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i guess i over did it huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_mad",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "hu-......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfchara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_mad",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "although... i haven't got to this point just to give up here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i will kill you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no matter the cost..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_mad",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "we're gonna have a MAD time!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfchara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "=]"
+		}
+	]
+}

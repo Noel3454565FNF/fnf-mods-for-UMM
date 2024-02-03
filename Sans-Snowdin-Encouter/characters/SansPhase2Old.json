@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				191,
+				-57
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dustalesans left000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dustalesans down0000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				150,
+				-40
+			],
+			"anim": "idle",
+			"fps": 6,
+			"name": "Dustalesans idle",
+			"indices": [
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				-53
+			],
+			"anim": "blackFace",
+			"fps": 24,
+			"name": "Dustalesans animation",
+			"indices": []
+		},
+		{
+			"offsets": [
+				215,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dustalesans up000"
+		},
+		{
+			"offsets": [
+				141,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "Dustalesans right000"
+		},
+		{
+			"offsets": [
+				190,
+				-2
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "knifeOut",
+			"indices": [],
+			"name": "Dustalesans knife"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dustalesans",
+	"position": [
+		70,
+		-20
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

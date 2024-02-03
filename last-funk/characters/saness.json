@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ss idle"
+		},
+		{
+			"offsets": [
+				-80,
+				-60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ss down"
+		},
+		{
+			"offsets": [
+				-80,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ss up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ss left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ss right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/saness",
+	"position": [
+		-700,
+		300
+	],
+	"healthicon": "saness",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

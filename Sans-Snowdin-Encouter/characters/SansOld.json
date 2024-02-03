@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				191,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sans Left",
+			"indices": [
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sans Down",
+			"indices": [
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				150,
+				-40
+			],
+			"anim": "idle",
+			"fps": 6,
+			"name": "Sans Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				-49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sans Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-51
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sans Right",
+			"indices": [
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				-43
+			],
+			"anim": "blackFace",
+			"fps": 18,
+			"name": "animation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sans",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

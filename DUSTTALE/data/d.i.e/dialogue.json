@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "not bad kid."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He he he....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\\nHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "DID YOU REALLY THINK THAT WAS MY BEST?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Get ready yourself kiddo..."
+		}
+	]
+}

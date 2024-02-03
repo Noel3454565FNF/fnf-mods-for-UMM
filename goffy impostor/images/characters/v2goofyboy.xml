@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="v2goofyboy.png"><SubTexture name="v2goofyboy down note0000" x="2027" y="1056" width="370" height="479" frameX="-1515" frameY="-1257" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy down note0001" x="2027" y="1056" width="370" height="479" frameX="-1515" frameY="-1257" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy down note0002" x="2027" y="559" width="370" height="497" frameX="-1515" frameY="-1239" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy left note0000" x="1568" y="578" width="376" height="573" frameX="-1507" frameY="-1163" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy left note0001" x="1568" y="578" width="376" height="573" frameX="-1507" frameY="-1163" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy left note0002" x="780" y="1193" width="374" height="569" frameX="-1510" frameY="-1167" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy right note0000" x="2027" y="0" width="390" height="559" frameX="-1518" frameY="-1177" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy right note0001" x="2027" y="0" width="390" height="559" frameX="-1518" frameY="-1177" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy right note0002" x="1554" y="1193" width="375" height="561" frameX="-1516" frameY="-1175" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy up note0000" x="0" y="0" width="370" height="611" frameX="-1515" frameY="-1125" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy up note0001" x="0" y="0" width="370" height="611" frameX="-1515" frameY="-1125" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy up note0002" x="828" y="0" width="370" height="596" frameX="-1515" frameY="-1140" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy bruh0000" x="0" y="1766" width="740" height="437" frameX="-1808" frameY="-1308" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy hey0000" x="0" y="611" width="370" height="582" frameX="-1515" frameY="-1154" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy hey0001" x="0" y="611" width="370" height="582" frameX="-1515" frameY="-1154" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy hey0002" x="0" y="611" width="370" height="582" frameX="-1515" frameY="-1154" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy hey0003" x="744" y="611" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy hey0004" x="744" y="611" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy hey0005" x="744" y="611" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy idle dance0000" x="1154" y="1193" width="400" height="567" frameX="-1500" frameY="-1169" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy idle dance0001" x="1154" y="1193" width="400" height="567" frameX="-1500" frameY="-1169" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy idle dance0002" x="1154" y="1193" width="400" height="567" frameX="-1500" frameY="-1169" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy idle dance0003" x="386" y="1193" width="394" height="571" frameX="-1503" frameY="-1165" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy idle dance0004" x="386" y="1193" width="394" height="571" frameX="-1503" frameY="-1165" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy idle dance0005" x="0" y="1193" width="386" height="573" frameX="-1507" frameY="-1163" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy idle dance0006" x="370" y="611" width="374" height="580" frameX="-1513" frameY="-1156" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy idle dance0007" x="1198" y="0" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0000" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0001" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0002" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0003" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0004" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0005" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0006" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0007" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0008" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy miss0009" x="1198" y="578" width="370" height="578" frameX="-1515" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy laugh0000" x="370" y="0" width="458" height="603" frameX="-1427" frameY="-1133" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy laugh0001" x="370" y="0" width="458" height="603" frameX="-1427" frameY="-1133" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2goofyboy laugh0002" x="1568" y="0" width="459" height="578" frameX="-1426" frameY="-1158" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "pcport",
+		"player1": "bf-fire-flip",
+		"player2": "funny",
+		"player3": null,
+		"events": [
+			[
+				41189.1891891892,
+				[
+					[
+						"Play Animation",
+						"morb",
+						"dad"
+					]
+				]
+			],
+			[
+				60810.8108108109,
+				[
+					[
+						"Change Character",
+						"dad",
+						"laugh"
+					]
+				]
+			],
+			[
+				190090.540540541,
+				[
+					[
+						"Change Character",
+						"dad",
+						"funny 4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Game-Over"
+	}
+}

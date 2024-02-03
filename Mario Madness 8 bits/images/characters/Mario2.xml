@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mario2.png">
+<SubTexture name="idle0000" x="0" y="0" width="132" height="187" frameX="-220" frameY="-363" frameWidth="550" frameHeight="550" />
+<SubTexture name="idle0001" x="132" y="0" width="132" height="220" frameX="-209" frameY="-330" frameWidth="550" frameHeight="550" />
+<SubTexture name="idle0002" x="264" y="0" width="132" height="231" frameX="-209" frameY="-319" frameWidth="550" frameHeight="550" />
+<SubTexture name="singDOWN0000" x="396" y="0" width="165" height="242" frameX="-198" frameY="-308" frameWidth="550" frameHeight="550" />
+<SubTexture name="singDOWN0001" x="0" y="242" width="165" height="264" frameX="-198" frameY="-286" frameWidth="550" frameHeight="550" />
+<SubTexture name="singDOWN0002" x="165" y="242" width="165" height="275" frameX="-198" frameY="-275" frameWidth="550" frameHeight="550" />
+<SubTexture name="singLEFT0000" x="330" y="242" width="242" height="275" frameX="-154" frameY="-275" frameWidth="550" frameHeight="550" />
+<SubTexture name="singLEFT0001" x="572" y="242" width="242" height="275" frameX="-165" frameY="-275" frameWidth="550" frameHeight="550" />
+<SubTexture name="singLEFT0002" x="0" y="517" width="242" height="264" frameX="-176" frameY="-286" frameWidth="550" frameHeight="550" />
+<SubTexture name="singRIGHT0000" x="242" y="517" width="242" height="286" frameX="-220" frameY="-264" frameWidth="550" frameHeight="550" />
+<SubTexture name="singRIGHT0001" x="484" y="517" width="231" height="286" frameX="-231" frameY="-264" frameWidth="550" frameHeight="550" />
+<SubTexture name="singRIGHT0002" x="715" y="517" width="220" height="286" frameX="-231" frameY="-264" frameWidth="550" frameHeight="550" />
+<SubTexture name="singUP0000" x="0" y="803" width="286" height="363" frameX="-132" frameY="-187" frameWidth="550" frameHeight="550" />
+<SubTexture name="singUP0001" x="286" y="803" width="286" height="352" frameX="-132" frameY="-198" frameWidth="550" frameHeight="550" />
+<SubTexture name="singUP0002" x="572" y="803" width="275" height="341" frameX="-132" frameY="-209" frameWidth="550" frameHeight="550" />
+<SubTexture name="HAHA0000" x="847" y="803" width="297" height="363" frameX="-110" frameY="-187" frameWidth="550" frameHeight="550" />
+<SubTexture name="HAHA0001" x="0" y="1166" width="341" height="363" frameX="-110" frameY="-187" frameWidth="550" frameHeight="550" />
+<SubTexture name="HAHA0002" x="341" y="1166" width="341" height="363" frameX="-110" frameY="-187" frameWidth="550" frameHeight="550" />
+</TextureAtlas>

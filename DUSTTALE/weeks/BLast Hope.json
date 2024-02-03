@@ -1,0 +1,31 @@
+{
+	"storyName": "Pacifist Route",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "pacifist",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "AweekGenocide",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Last Hope",
+			"chara",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week Pacifist"
+}

@@ -1,0 +1,161 @@
+{
+	"song": {
+		"events": [
+			[
+				20400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blackparasitegoofyv2"
+					],
+					[
+						"Camera Flash",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				68400,
+				[
+					[
+						"Camera Flash",
+						"0.2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"squidward"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"mrbeast"
+					],
+					[
+						"Camera Flash",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blackparasitegoofyv2"
+					],
+					[
+						"Camera Flash",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				116925,
+				[
+					[
+						"karaokelyrics",
+						"",
+						"ATTACK"
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"karaokelyrics",
+						"",
+						"Iillegal geometry Reference!!1!1"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"tbh"
+					],
+					[
+						"Camera Flash",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"karaokelyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blackparasitegoofyv2"
+					],
+					[
+						"Camera Flash",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				131400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"exe"
+					],
+					[
+						"Camera Flash",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blackparasitegoofyv2"
+					],
+					[
+						"Camera Flash",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Flash",
+						"4",
+						"69"
+					]
+				]
+			]
+		]
+	}
+}

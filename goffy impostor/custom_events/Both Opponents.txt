@@ -1,0 +1,1 @@
+Value1 = "1" = Both Black and White

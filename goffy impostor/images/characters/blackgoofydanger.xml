@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blackgoofydanger.png"><SubTexture name="blackgoofydanger left note0000" x="0" y="1963" width="1066" height="670" frameX="-554" frameY="-586" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger left note0001" x="0" y="1963" width="1066" height="670" frameX="-554" frameY="-586" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger left note0002" x="2542" y="712" width="1105" height="693" frameX="-596" frameY="-583" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger right note0000" x="0" y="0" width="1009" height="1036" frameX="-1102" frameY="-530" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger right note0001" x="0" y="0" width="1009" height="1036" frameX="-1102" frameY="-530" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger right note0002" x="1009" y="0" width="1117" height="977" frameX="-1033" frameY="-537" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger down note0000" x="1508" y="1963" width="1277" height="512" frameX="-628" frameY="-850" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger down note0001" x="1508" y="1963" width="1277" height="512" frameX="-628" frameY="-850" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger down note0002" x="2542" y="1405" width="1191" height="540" frameX="-671" frameY="-802" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger up note0000" x="956" y="1036" width="887" height="922" frameX="-909" frameY="-480" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger up note0001" x="956" y="1036" width="887" height="922" frameX="-909" frameY="-480" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger up note0002" x="0" y="1036" width="956" height="927" frameX="-882" frameY="-473" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger idle dance0000" x="2542" y="0" width="1316" height="712" frameX="-705" frameY="-537" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger hey0000" x="2126" y="0" width="416" height="714" frameX="-1113" frameY="-537" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger hey0001" x="2126" y="0" width="416" height="714" frameX="-1113" frameY="-537" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="blackgoofydanger hey0002" x="1066" y="1963" width="442" height="657" frameX="-1100" frameY="-594" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

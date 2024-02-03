@@ -1,0 +1,85 @@
+{
+	"storyName": "Genocide Route",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "genocide",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"The Murderer",
+			"sans",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Red Megalovania",
+			"sans",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Drowning",
+			"sans",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"psychotic breakdown",
+			"sans",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"d.i.e",
+			"sans",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Anthropophobia",
+			"sans",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hallucinations",
+			"Papyrus",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week Genocide"
+}

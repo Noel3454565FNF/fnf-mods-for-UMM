@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				-191
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				-130,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "Mario Iddle000"
+		},
+		{
+			"offsets": [
+				-124,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Mario Up000"
+		},
+		{
+			"offsets": [
+				-138,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "Mario Left000"
+		},
+		{
+			"offsets": [
+				-110,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Mario Down000"
+		},
+		{
+			"offsets": [
+				-110,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Mario Right000"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mario",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "Mario1",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		180,
+		186
+	],
+	"camera_position": [
+		20,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

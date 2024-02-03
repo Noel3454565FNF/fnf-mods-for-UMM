@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				510,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				250,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "slash",
+			"loop": false,
+			"name": "slash"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chara",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chara",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		0,
+		30
+	],
+	"camera_position": [
+		-390,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

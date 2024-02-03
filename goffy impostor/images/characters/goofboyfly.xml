@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goofboyfly.png"><SubTexture name="goofboyfly idle dance0000" x="0" y="1719" width="505" height="519" frameX="-1567" frameY="-1117" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0001" x="2407" y="512" width="508" height="505" frameX="-1564" frameY="-1131" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0002" x="1533" y="1719" width="507" height="512" frameX="-1565" frameY="-1124" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0003" x="2407" y="1017" width="506" height="503" frameX="-1563" frameY="-1133" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0004" x="1030" y="1719" width="503" height="515" frameX="-1566" frameY="-1121" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0005" x="2407" y="1520" width="500" height="502" frameX="-1566" frameY="-1134" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0006" x="1917" y="0" width="490" height="521" frameX="-1572" frameY="-1115" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0007" x="1432" y="0" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0008" x="366" y="605" width="481" height="537" frameX="-1580" frameY="-1099" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly idle dance0009" x="485" y="1190" width="488" height="522" frameX="-1573" frameY="-1114" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly left note0000" x="505" y="1719" width="525" height="516" frameX="-1527" frameY="-1120" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly left note0001" x="513" y="2238" width="529" height="503" frameX="-1523" frameY="-1133" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly left note0002" x="1042" y="2238" width="515" height="498" frameX="-1541" frameY="-1138" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly left note0003" x="2407" y="0" width="512" height="512" frameX="-1544" frameY="-1124" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly left note0004" x="0" y="2238" width="513" height="506" frameX="-1543" frameY="-1130" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly down note0000" x="2919" y="855" width="495" height="418" frameX="-1566" frameY="-1218" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly down note0001" x="2919" y="436" width="497" height="419" frameX="-1564" frameY="-1217" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly down note0002" x="1557" y="2238" width="496" height="436" frameX="-1565" frameY="-1200" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly down note0003" x="2053" y="2238" width="499" height="436" frameX="-1562" frameY="-1200" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly down note0004" x="2919" y="0" width="498" height="436" frameX="-1563" frameY="-1200" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly up note0000" x="0" y="0" width="354" height="605" frameX="-1703" frameY="-1027" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly up note0001" x="354" y="0" width="356" height="604" frameX="-1701" frameY="-1028" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly up note0002" x="0" y="605" width="366" height="585" frameX="-1691" frameY="-1047" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly up note0003" x="710" y="0" width="360" height="589" frameX="-1697" frameY="-1043" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly up note0004" x="1070" y="0" width="362" height="588" frameX="-1695" frameY="-1044" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly right note0000" x="973" y="1190" width="477" height="522" frameX="-1699" frameY="-1054" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly right note0001" x="1917" y="1041" width="477" height="513" frameX="-1699" frameY="-1063" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly right note0002" x="1917" y="521" width="465" height="520" frameX="-1692" frameY="-1056" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly right note0003" x="847" y="605" width="465" height="533" frameX="-1692" frameY="-1043" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly right note0004" x="1432" y="529" width="465" height="529" frameX="-1692" frameY="-1047" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0000" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0001" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0002" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0003" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0004" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0005" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0006" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0007" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofboyfly miss0008" x="0" y="1190" width="485" height="529" frameX="-1576" frameY="-1107" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Evil C-BF Idle"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Evil C-BF Left"
+		},
+		{
+			"offsets": [
+				5,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Evil C-BF Up"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Evil C-BF Right"
+		},
+		{
+			"offsets": [
+				0,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Evil C-BF Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Evil_C-BF",
+	"position": [
+		-370,
+		140
+	],
+	"healthicon": "Evil_C-BF",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		4,
+		49
+	],
+	"camera_position": [
+		50,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+{
+	"position": [
+		-100,
+		-60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "dialogue_sans_waterfall",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "normal",
+			"loop_name": "normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "worry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "worry",
+			"idle_name": "worry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "mad",
+			"idle_name": "mad"
+		}
+	]
+}

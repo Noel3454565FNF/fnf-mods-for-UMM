@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1605,
+				873
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "exe left note"
+		},
+		{
+			"offsets": [
+				1605,
+				873
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "exe idle dance"
+		},
+		{
+			"offsets": [
+				1605,
+				873
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "exe right note"
+		},
+		{
+			"offsets": [
+				1605,
+				873
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "exe down note"
+		},
+		{
+			"offsets": [
+				1605,
+				873
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "exe up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/exe",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		84,
+		180
+	],
+	"camera_position": [
+		-340,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

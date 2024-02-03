@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goofywhite.png"><SubTexture name="goofywhite down note0000" x="627" y="915" width="571" height="392" frameX="-831" frameY="-1425" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite down note0001" x="627" y="915" width="571" height="392" frameX="-831" frameY="-1425" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite down note0002" x="1198" y="915" width="565" height="390" frameX="-836" frameY="-1417" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite left note0000" x="1276" y="0" width="672" height="410" frameX="-647" frameY="-1377" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite left note0001" x="1276" y="0" width="672" height="410" frameX="-647" frameY="-1377" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite left note0002" x="0" y="503" width="664" height="412" frameX="-666" frameY="-1375" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite right note0000" x="0" y="915" width="627" height="397" frameX="-865" frameY="-1390" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite right note0001" x="0" y="915" width="627" height="397" frameX="-865" frameY="-1390" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite right note0002" x="1276" y="410" width="621" height="404" frameX="-854" frameY="-1389" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite up note0000" x="0" y="0" width="641" height="503" frameX="-768" frameY="-1284" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite up note0001" x="0" y="0" width="641" height="503" frameX="-768" frameY="-1284" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite up note0002" x="641" y="0" width="635" height="469" frameX="-774" frameY="-1318" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite idle dance0000" x="0" y="1312" width="621" height="390" frameX="-819" frameY="-1408" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite idle dance0001" x="0" y="1312" width="621" height="390" frameX="-819" frameY="-1408" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite idle dance0002" x="0" y="1312" width="621" height="390" frameX="-819" frameY="-1408" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite idle dance0003" x="1948" y="0" width="618" height="369" frameX="-821" frameY="-1427" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite idle dance0004" x="1948" y="0" width="618" height="369" frameX="-821" frameY="-1427" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite idle dance0005" x="1224" y="1312" width="607" height="374" frameX="-825" frameY="-1416" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite idle dance0006" x="621" y="1312" width="603" height="380" frameX="-825" frameY="-1407" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofywhite idle dance0007" x="664" y="503" width="590" height="398" frameX="-828" frameY="-1389" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

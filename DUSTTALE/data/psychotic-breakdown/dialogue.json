@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heya."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "...i already know what you’re here for."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but this time i have more XP and level than you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sans_dia",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "let’s just get to the point."
+		}
+	]
+}

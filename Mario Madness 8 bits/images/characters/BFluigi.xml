@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFluigi.png">
+<SubTexture name="idle0000" x="0" y="0" width="576" height="512" frameX="-320" frameY="-320" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="idle0001" x="0" y="0" width="576" height="512" frameX="-320" frameY="-320" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="idle0002" x="576" y="0" width="544" height="496" frameX="-320" frameY="-336" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="idle0003" x="1120" y="0" width="576" height="480" frameX="-320" frameY="-352" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="idle0004" x="0" y="512" width="576" height="480" frameX="-320" frameY="-352" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="down0000" x="576" y="512" width="448" height="496" frameX="-416" frameY="-336" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="down0001" x="1024" y="512" width="896" height="576" frameX="-16" frameY="-256" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="right0000" x="0" y="1088" width="592" height="512" frameX="-320" frameY="-320" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="right0001" x="592" y="1088" width="576" height="512" frameX="-336" frameY="-320" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="left0000" x="1168" y="1088" width="576" height="512" frameX="-304" frameY="-320" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="left0001" x="0" y="1600" width="544" height="512" frameX="-288" frameY="-320" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="up0000" x="544" y="1600" width="560" height="528" frameX="-336" frameY="-304" frameWidth="1024" frameHeight="1024" />
+<SubTexture name="up0001" x="1104" y="1600" width="528" height="560" frameX="-352" frameY="-288" frameWidth="1024" frameHeight="1024" />
+</TextureAtlas>

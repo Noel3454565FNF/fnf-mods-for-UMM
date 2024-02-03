@@ -1,0 +1,31 @@
+{
+	"storyName": "Wounded Shooting",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "wounded",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "SweekPacifist",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Wounded Shooting",
+			"pico",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Wounded Shooting"
+}

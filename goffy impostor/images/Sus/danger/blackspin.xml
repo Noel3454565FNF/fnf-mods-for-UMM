@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blackspin.png"><SubTexture name="blackspin tpose0000" x="0" y="0" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0001" x="1051" y="0" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0002" x="0" y="720" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0003" x="2102" y="0" width="1052" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0004" x="0" y="1440" width="1054" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0005" x="1054" y="1440" width="1166" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0006" x="0" y="2160" width="1166" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0007" x="1166" y="2160" width="1166" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0008" x="3154" y="0" width="1054" height="720" frameX="-111" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0009" x="3154" y="720" width="1053" height="720" frameX="-112" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0010" x="3154" y="1440" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0011" x="3154" y="2160" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0012" x="2102" y="720" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0013" x="1051" y="720" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0014" x="0" y="2880" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0015" x="1051" y="2880" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0016" x="2102" y="2880" width="1054" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0017" x="4208" y="0" width="1054" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0018" x="4208" y="720" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0019" x="4208" y="1440" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0020" x="4208" y="2160" width="1053" height="720" frameX="-112" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0021" x="4208" y="2880" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0022" x="3156" y="2880" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="blackspin tpose0023" x="0" y="3600" width="1051" height="720" frameX="-114" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

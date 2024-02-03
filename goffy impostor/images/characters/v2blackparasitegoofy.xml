@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="v2blackparasitegoofy.png"><SubTexture name="v2blackparasitegoofy left note0000" x="6232" y="7213" width="2599" height="1375" frameX="-46" frameY="-527" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy left note0001" x="6232" y="7213" width="2599" height="1375" frameX="-46" frameY="-527" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy left note0002" x="0" y="8878" width="2499" height="1375" frameX="-109" frameY="-527" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy right note0000" x="7793" y="0" width="2501" height="1679" frameX="-305" frameY="-223" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy right note0001" x="7793" y="0" width="2501" height="1679" frameX="-305" frameY="-223" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy right note0002" x="7793" y="1679" width="2391" height="1679" frameX="-350" frameY="-223" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy up note0000" x="0" y="0" width="1786" height="2022" frameX="-581" frameY="-222" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy up note0001" x="0" y="0" width="1786" height="2022" frameX="-581" frameY="-222" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy up note0002" x="1786" y="0" width="1826" height="1946" frameX="-573" frameY="-305" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy down note0000" x="5698" y="1719" width="1924" height="1707" frameX="-420" frameY="-588" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy down note0001" x="5698" y="1719" width="1924" height="1707" frameX="-420" frameY="-588" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy down note0002" x="2093" y="5517" width="1816" height="1696" frameX="-509" frameY="-581" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0000" x="0" y="5517" width="2093" height="1696" frameX="-367" frameY="-206" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0001" x="3909" y="5517" width="2091" height="1691" frameX="-380" frameY="-211" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0002" x="7793" y="5036" width="2086" height="1671" frameX="-408" frameY="-231" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0003" x="2077" y="7213" width="2082" height="1658" frameX="-441" frameY="-244" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0004" x="4159" y="7213" width="2073" height="1658" frameX="-473" frameY="-244" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0005" x="0" y="7213" width="2077" height="1665" frameX="-494" frameY="-237" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0006" x="7793" y="3358" width="2084" height="1678" frameX="-512" frameY="-224" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0007" x="5698" y="3426" width="2082" height="1705" frameX="-513" frameY="-197" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0008" x="0" y="3777" width="2083" height="1740" frameX="-502" frameY="-162" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0009" x="3612" y="0" width="2086" height="1755" frameX="-479" frameY="-147" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0010" x="0" y="2022" width="2090" height="1755" frameX="-446" frameY="-147" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0011" x="2090" y="2022" width="2092" height="1746" frameX="-410" frameY="-156" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0012" x="2083" y="3777" width="2095" height="1734" frameX="-394" frameY="-168" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="v2blackparasitegoofy idle dance0013" x="5698" y="0" width="2095" height="1719" frameX="-377" frameY="-183" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

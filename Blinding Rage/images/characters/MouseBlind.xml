@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MouseBlind.png">
+<SubTexture name="MouseBlind Idle0000" x="1115" y="712" width="460" height="500" frameX="-90" frameY="-219" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Idle0001" x="0" y="1246" width="465" height="497" frameX="-87" frameY="-222" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Idle0002" x="2130" y="0" width="471" height="486" frameX="-83" frameY="-232" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Idle0003" x="530" y="1743" width="478" height="480" frameX="-79" frameY="-237" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Idle0004" x="1480" y="1743" width="479" height="476" frameX="-78" frameY="-240" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Idle0005" x="1008" y="1743" width="472" height="480" frameX="-85" frameY="-237" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Idle0006" x="2130" y="486" width="467" height="486" frameX="-87" frameY="-232" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Idle0007" x="465" y="1246" width="464" height="497" frameX="-88" frameY="-222" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Idle0008" x="1669" y="0" width="461" height="499" frameX="-90" frameY="-220" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Left0000" x="555" y="712" width="560" height="531" frameX="-2" frameY="-180" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Left0001" x="0" y="712" width="555" height="534" frameX="-7" frameY="-177" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Left0002" x="1118" y="0" width="551" height="535" frameX="-11" frameY="-176" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Down0000" x="1959" y="1743" width="449" height="451" frameX="-74" frameY="-264" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Down0001" x="1669" y="499" width="437" height="461" frameX="-73" frameY="-255" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Down0002" x="2130" y="972" width="434" height="465" frameX="-75" frameY="-250" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Up0000" x="0" y="0" width="371" height="712" frameX="-108" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Up0001" x="371" y="0" width="373" height="702" frameX="-106" frameY="-10" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Up0002" x="744" y="0" width="374" height="696" frameX="-105" frameY="-15" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Right0000" x="0" y="1743" width="530" height="484" frameX="-89" frameY="-233" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Right0001" x="929" y="1246" width="519" height="491" frameX="-90" frameY="-226" frameWidth="720" frameHeight="720" />
+<SubTexture name="MouseBlind Right0002" x="1448" y="1246" width="514" height="491" frameX="-90" frameY="-227" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

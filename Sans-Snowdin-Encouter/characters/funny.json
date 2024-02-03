@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				500,
+				530
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "funny idle"
+		},
+		{
+			"offsets": [
+				510,
+				530
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "funny left"
+		},
+		{
+			"offsets": [
+				500,
+				530
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "funny down"
+		},
+		{
+			"offsets": [
+				500,
+				530
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "funny up"
+		},
+		{
+			"offsets": [
+				490,
+				530
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "funny right"
+		},
+		{
+			"offsets": [
+				510,
+				530
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "morb",
+			"loop": false,
+			"name": "funny transform"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/funny",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "invisible",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		161,
+		161
+	],
+	"camera_position": [
+		-490,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.200000000000001
+}

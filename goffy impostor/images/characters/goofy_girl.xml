@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goofy_girl.png"><SubTexture name="goofy_girl danceleft0000" x="982" y="2685" width="982" height="841" frameX="-1171" frameY="-965" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl danceleft0001" x="982" y="2685" width="982" height="841" frameX="-1171" frameY="-965" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl danceleft0002" x="982" y="2685" width="982" height="841" frameX="-1171" frameY="-965" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl danceleft0003" x="2856" y="0" width="978" height="857" frameX="-1174" frameY="-949" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl danceleft0004" x="2856" y="0" width="978" height="857" frameX="-1174" frameY="-949" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl danceleft0005" x="0" y="1796" width="965" height="889" frameX="-1182" frameY="-917" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl danceleft0006" x="0" y="899" width="956" height="897" frameX="-1186" frameY="-909" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl danceleft0007" x="0" y="0" width="950" height="899" frameX="-1190" frameY="-907" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl dance right0000" x="0" y="2685" width="982" height="842" frameX="-1171" frameY="-964" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl dance right0001" x="0" y="2685" width="982" height="842" frameX="-1171" frameY="-964" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl dance right0002" x="0" y="2685" width="982" height="842" frameX="-1171" frameY="-964" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl dance right0003" x="2856" y="857" width="978" height="846" frameX="-1174" frameY="-960" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl dance right0004" x="2856" y="857" width="978" height="846" frameX="-1174" frameY="-960" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl dance right0005" x="965" y="1796" width="965" height="881" frameX="-1182" frameY="-925" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl dance right0006" x="1900" y="0" width="956" height="890" frameX="-1186" frameY="-916" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl dance right0007" x="0" y="0" width="950" height="899" frameX="-1190" frameY="-907" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="goofy_girl peace out bruv0000" x="950" y="0" width="950" height="899" frameX="-1190" frameY="-907" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

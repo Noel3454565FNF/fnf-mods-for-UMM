@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Luigi.png">
+<SubTexture name="Luigi Iddle0000" x="996" y="0" width="279" height="367" frameX="-140" frameY="-131" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Iddle0001" x="996" y="0" width="279" height="367" frameX="-140" frameY="-131" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Iddle0002" x="996" y="367" width="279" height="358" frameX="-140" frameY="-140" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Iddle0003" x="279" y="804" width="271" height="350" frameX="-148" frameY="-148" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Iddle0004" x="0" y="804" width="279" height="358" frameX="-140" frameY="-140" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Iddle0005" x="996" y="0" width="279" height="367" frameX="-140" frameY="-131" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Left0000" x="481" y="419" width="245" height="384" frameX="-166" frameY="-114" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Left0001" x="726" y="419" width="245" height="384" frameX="-157" frameY="-114" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Left0002" x="254" y="419" width="227" height="384" frameX="-166" frameY="-114" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Right0000" x="472" y="0" width="262" height="385" frameX="-166" frameY="-122" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Right0001" x="734" y="0" width="262" height="385" frameX="-175" frameY="-122" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Right0002" x="0" y="419" width="254" height="385" frameX="-183" frameY="-122" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Down0000" x="550" y="804" width="376" height="323" frameX="-87" frameY="-192" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Down0001" x="1275" y="0" width="367" height="314" frameX="-87" frameY="-201" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Up0000" x="236" y="0" width="236" height="402" frameX="-166" frameY="-96" frameWidth="559" frameHeight="559" />
+<SubTexture name="Luigi Up0001" x="0" y="0" width="236" height="419" frameX="-166" frameY="-79" frameWidth="559" frameHeight="559" />
+</TextureAtlas>

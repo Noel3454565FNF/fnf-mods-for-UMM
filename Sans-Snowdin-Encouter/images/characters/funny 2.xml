@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="funny 2.png"><SubTexture name="funny 2 idle0000" x="0" y="0" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 idle0001" x="34" y="0" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 idle0002" x="68" y="0" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 idle0003" x="0" y="34" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 idle0004" x="34" y="34" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 idle0005" x="68" y="34" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 left0000" x="0" y="68" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 down0000" x="34" y="68" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 up0000" x="68" y="68" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+<SubTexture name="funny 2 right0000" x="0" y="102" width="34" height="34" frameX="0" frameY="0" frameWidth="34" frameHeight="34" />
+</TextureAtlas>

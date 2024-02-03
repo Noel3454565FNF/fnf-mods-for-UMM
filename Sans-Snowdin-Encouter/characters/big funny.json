@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				720
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "big funny idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				720
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "big funny left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				720
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "big funny up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				720
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "big funny right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				720
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "big funny down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/big funny",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "invisible",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-670,
+		-390
+	],
+	"sing_duration": 4,
+	"scale": 1.00000000000002
+}

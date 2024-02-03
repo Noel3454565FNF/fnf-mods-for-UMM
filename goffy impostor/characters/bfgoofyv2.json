@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "v2goofyboy left note"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "v2goofyboy idle dance"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "v2goofyboy right note"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "v2goofyboy down note"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "v2goofyboy up note"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "v2goofyboy miss"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "v2goofyboy miss"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "v2goofyboy miss"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "v2goofyboy miss"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "v2goofyboy hey"
+		},
+		{
+			"offsets": [
+				1965,
+				1340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-bruh",
+			"indices": [],
+			"name": "v2goofyboy bruh"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "v2goofyboy laugh"
+		},
+		{
+			"offsets": [
+				1505,
+				1280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "v2goofyboy laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/v2goofyboy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "v2bfgoofy",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1380,
+		-1049
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,40 @@
+FNF X DUSTTALE CREDITS
+
+Owner of the mod
+WasabiSoja::wasabi::Owner of the mod, coder, animator and artist::https://gamebanana.com/members/1846631::FFFFFF
+
+Music
+IceyDuNoir::iceydunoir::Drowning, Psychotic-breakdown, Hallucinations, Last-hope, Main-menu-theme, Death-theme::https://gamebanana.com/members/1966090::FFFFFF
+Nathan S.::nathan::The murderer, Red-Megalovania, Reality-Check::https://gamebanana.com/mods/287084::FFFFFF
+Lemonemy::lemon::D.I.E, Anthropophobia::https://gamebanana.com/members/1832492::FFFFFF
+Coders
+WasabiSoja::wasabi::Main coder for the mechanics and effects::https://gamebanana.com/members/1846631::FFFFFF
+Stamps::stamps::Helper in the code, also very cool guy::https://gamebanana.com/members/1953621::FFFFFF
+hexar::hexar::Codding the dialogue and help with some technical things::https://gamebanana.com/members/1814820::FFFFFF
+Artists and animators
+WasabiSoja::wasabi::Sans sprites and animations, chara-bf sprites and animations, chara animations, menu sprites and animations, logo, chara animations::https://gamebanana.com/members/1846631::FFFFFF
+Daralynarts::daraly::Cutscenes animator::https://gamebanana.com/members/1819620::FFFFFF
+HLosans::hlosans::In game backgrounds (snowdin-cave, waterfall, judgement-hall)::https://gamebanana.com/mods/287084::FFFFFF
+Samuel Pastel::samuel::Papyrus assets and animations, chara icons::https://gamebanana.com/mods/287084::FFFFFF
+Korean Nooby::nooby::Thumbnails, chara assets, undyne assets::https://gamebanana.com/mods/287084::FFFFFF
+Mr Garbage::mrgarbage::Pixel intro cutscene (assets)::https://gamebanana.com/mods/287084::FFFFFF
+EEF::eef::Gaster Blaster sprite and animation helper::https://gamebanana.com/members/1779635::FFFFFF
+Goobler::goobler::Main Menu dust effect, and smth more but i forgor lmao::https://gamebanana.com/members/1933642::FFFFFF
+MrGarbage64::mrgarbage::Pixel Intro assets::https://gamebanana.com/mods/287084::FFFFFF
+Charters
+UndependableNight::night::Drowning, Psychotic-breakdown, D.I.E, hallucinations::https://gamebanana.com/mods/287084::FFFFFF
+GoldSebi::goldsebi::Last-hope, Reality-check, Anthropophobia::https://gamebanana.com/members/1915643::FFFFFF
+ImCuriousYT::imcuriousyt::The-murderer, Red-megalovania::https://gamebanana.com/members/1863918::FFFFFF
+Editors
+TheMistakeYT::themistake::Cutscenes audio, trailer for the mod::https://gamebanana.com/members/1764114::FFFFFF
+Writters
+Jetvanic::jetvanic::Helping in the dialogue and story writting::https://gamebanana.com/mods/287084::FFFFFF
+All Authors Special Thanks
+KadeDeveloper::kade::The engine lol::https://gamebanana.com/members/1774971::FFFFFF
+Draco::Draco::Sans voice samples::https://gamebanana.com/mods/287084::FFFFFF
+CaseyC08::casey::Beeing Casey::https://gamebanana.com/members/1794446::FFFFFF
+FNF X DUSTTALE
+PSYCH ENGINE PORT CREDITS
+Giga ChannelSpot::giga::Port The Mod To Psych Engine lol::https://gamebanana.com/members/2027586::FFFFFF
+Special Thanks
+Shadow Mario::shadowmario::Making This Engine::https://gamebanana.com/mods/309789::FFFFFF

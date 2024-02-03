@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="speaker.png"><SubTexture name="speaker goofy0000" x="0" y="0" width="982" height="445" frameX="-1171" frameY="-1361" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="speaker goofy0001" x="0" y="0" width="982" height="445" frameX="-1171" frameY="-1361" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="speaker goofy0002" x="0" y="0" width="982" height="445" frameX="-1171" frameY="-1361" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="speaker goofy0003" x="0" y="445" width="978" height="445" frameX="-1174" frameY="-1361" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="speaker goofy0004" x="0" y="445" width="978" height="445" frameX="-1174" frameY="-1361" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="speaker goofy0005" x="982" y="0" width="965" height="445" frameX="-1182" frameY="-1361" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="speaker goofy0006" x="982" y="445" width="956" height="445" frameX="-1186" frameY="-1361" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="speaker goofy0007" x="0" y="890" width="950" height="445" frameX="-1190" frameY="-1361" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>
